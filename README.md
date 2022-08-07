@@ -3,9 +3,9 @@
 The purpose of the discussion is to interpret and describe the significance of your findings in light of what was already known about the research problem being investigated, and to explain any new understanding or fresh insights about the problem 
 <br>
 
-![image](///Discussion_Room/images/img.png)![image](///Discussion_Room/images/img1.png)
-I built a website of Discussion room in which anyone discuss their ideas  or hatever they want .
-I also create chatbot that helps in case of any difficulty.
+![image](img.png)![image](img1.png)
+I built a website of Discussion room in which anyone can discuss their ideas  or whatever they want .
+I also created chatbot that helps in case of any difficulty.
 
 <br>
 
